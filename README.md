@@ -1,0 +1,2 @@
+# Yaelcore-app
+Aplicación IA
